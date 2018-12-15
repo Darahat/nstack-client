@@ -14,7 +14,7 @@ import bottomOptions from '@/components/global/bottomoptions'
 // import blank from '@/components/blank'
 export default {
   components: {
-    panel,bottomOptions
+    panel, bottomOptions
   },
   name: 'App'
 }
